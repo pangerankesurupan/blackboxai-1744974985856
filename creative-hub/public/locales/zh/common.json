@@ -1,0 +1,60 @@
+{
+  "nav": {
+    "home": "首页",
+    "portfolio": "作品集",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "home": {
+    "hero": {
+      "title": "实现您的创意愿景",
+      "subtitle": "我们是一家专注于网页设计、品牌推广和数字营销解决方案的创意机构。",
+      "cta": {
+        "portfolio": "查看作品",
+        "contact": "联系我们"
+      }
+    }
+  },
+  "portfolio": {
+    "title": "我们的作品",
+    "subtitle": "探索我们最新的创意作品和项目",
+    "viewDetails": "查看详情"
+  },
+  "about": {
+    "title": "关于 Creative Hub",
+    "subtitle": "我们是充满激情的创作者和创新者团队",
+    "story": {
+      "title": "我们的故事",
+      "content": "Creative Hub 成立于2023年，一直走在数字创新的前沿，帮助企业转变在线形象并实现目标。",
+      "vision": "我们相信创意思维和技术卓越的力量，为客户带来卓越的成果。"
+    },
+    "mission": {
+      "title": "我们的使命",
+      "content": "通过创新的数字解决方案赋能企业，推动增长和成功。"
+    },
+    "vision": {
+      "title": "我们的愿景",
+      "content": "成为数字创新和客户成功领域的领先创意机构。"
+    },
+    "values": {
+      "title": "我们的价值观",
+      "content": "创造力、诚信和致力于为客户提供卓越成果。"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "让我们讨论您的下一个项目",
+    "info": {
+      "title": "联系方式",
+      "address": "地址",
+      "email": "电子邮件",
+      "phone": "电话"
+    },
+    "form": {
+      "name": "姓名",
+      "email": "电子邮件",
+      "message": "留言",
+      "submit": "发送消息"
+    }
+  }
+}
