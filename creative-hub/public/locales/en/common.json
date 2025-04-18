@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Bringing Your Creative Vision to Life",
+      "subtitle": "We're a digital creative agency specializing in web design, branding, and digital marketing solutions.",
+      "cta": {
+        "portfolio": "View Our Work",
+        "contact": "Get in Touch"
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Our Portfolio",
+    "subtitle": "Explore our latest work and creative projects",
+    "viewDetails": "View Details",
+    "categories": {
+      "webDev": "Web Development",
+      "uiDesign": "UI/UX Design",
+      "branding": "Branding"
+    },
+    "projects": {
+      "webApp": {
+        "title": "Modern Web Application",
+        "description": "A full-stack web application built with Next.js and Tailwind CSS"
+      },
+      "mobileApp": {
+        "title": "Mobile App Design",
+        "description": "UI/UX design for a mobile fitness tracking application"
+      },
+      "ecommerce": {
+        "title": "E-commerce Platform",
+        "description": "A responsive e-commerce platform with modern design"
+      },
+      "brandIdentity": {
+        "title": "Brand Identity Design",
+        "description": "Complete brand identity design for a tech startup"
+      }
+    }
+  },
+  "about": {
+    "title": "About Creative Hub",
+    "subtitle": "We're a team of passionate creators and innovators",
+    "story": {
+      "title": "Our Story",
+      "content": "Founded in 2023, Creative Hub has been at the forefront of digital innovation, helping businesses transform their online presence and achieve their goals.",
+      "vision": "We believe in the power of creative thinking and technical excellence to deliver exceptional results for our clients."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "To empower businesses with innovative digital solutions that drive growth and success."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "content": "To be the leading creative agency, known for excellence in digital innovation and client success."
+    },
+    "values": {
+      "title": "Our Values",
+      "content": "Creativity, integrity, and dedication to delivering exceptional results for our clients."
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Let's discuss your next project",
+    "info": {
+      "title": "Contact Information",
+      "address": "Address",
+      "email": "Email",
+      "phone": "Phone"
+    },
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  }
+}
