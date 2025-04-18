@@ -1,0 +1,60 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "portfolio": "Portofolio",
+    "about": "Tentang",
+    "contact": "Kontak"
+  },
+  "home": {
+    "hero": {
+      "title": "Mewujudkan Visi Kreatif Anda",
+      "subtitle": "Kami adalah agensi kreatif digital yang mengkhususkan diri dalam desain web, branding, dan solusi pemasaran digital.",
+      "cta": {
+        "portfolio": "Lihat Karya Kami",
+        "contact": "Hubungi Kami"
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Portofolio Kami",
+    "subtitle": "Jelajahi karya dan proyek kreatif terbaru kami",
+    "viewDetails": "Lihat Detail"
+  },
+  "about": {
+    "title": "Tentang Creative Hub",
+    "subtitle": "Kami adalah tim kreator dan inovator yang bersemangat",
+    "story": {
+      "title": "Cerita Kami",
+      "content": "Didirikan pada tahun 2023, Creative Hub telah menjadi pionir dalam inovasi digital, membantu bisnis mengubah kehadiran online mereka dan mencapai tujuan mereka.",
+      "vision": "Kami percaya pada kekuatan pemikiran kreatif dan keunggulan teknis untuk memberikan hasil yang luar biasa bagi klien kami."
+    },
+    "mission": {
+      "title": "Misi Kami",
+      "content": "Memberdayakan bisnis dengan solusi digital inovatif yang mendorong pertumbuhan dan kesuksesan."
+    },
+    "vision": {
+      "title": "Visi Kami",
+      "content": "Menjadi agensi kreatif terkemuka, dikenal karena keunggulan dalam inovasi digital dan kesuksesan klien."
+    },
+    "values": {
+      "title": "Nilai-Nilai Kami",
+      "content": "Kreativitas, integritas, dan dedikasi untuk memberikan hasil yang luar biasa bagi klien kami."
+    }
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "subtitle": "Mari diskusikan proyek Anda berikutnya",
+    "info": {
+      "title": "Informasi Kontak",
+      "address": "Alamat",
+      "email": "Email",
+      "phone": "Telepon"
+    },
+    "form": {
+      "name": "Nama",
+      "email": "Email",
+      "message": "Pesan",
+      "submit": "Kirim Pesan"
+    }
+  }
+}
